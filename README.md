@@ -1,2 +1,2 @@
 # hanuce.github.io
-Some usefull website for edu
+A usefull website for edu
